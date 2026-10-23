@@ -1,4 +1,7 @@
-# 🤖 MYRA AI Assistant
+https://raw.githubusercontent.com/codeninjavik/MYRA-AI-ASSISTANT-/main/image.png" width="250" alt="MYRA AI Logo">
+</p>
+
+<h1 align="center">MYRA AI# 🤖 MYRA AI Assistant
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/codeninjavik/MYRA-AI-ASSISTANT-/main/image.png" width="250" alt="MYRA AI Logo">
